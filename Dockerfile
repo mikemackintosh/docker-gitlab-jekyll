@@ -17,7 +17,8 @@ RUN apt-get install -y \
         libxslt1-dev \
         git \
         awscli \
-        jekyll
+        jekyll \
+        nodejs
 
 # Cleanup Apt
 RUN apt-get clean
