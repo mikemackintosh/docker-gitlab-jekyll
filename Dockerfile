@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:14.04.2
 MAINTAINER Mike Mackintosh <m@zyp.io>
 
 # Add brightbox
